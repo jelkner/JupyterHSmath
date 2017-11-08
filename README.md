@@ -1,5 +1,5 @@
-Jupyter High School Math
-========================
+High School Math and Programming
+================================
 
-A collection of Python scripts to aid in the study of high school math with
-the aid of a Jupyter server.
+A collection of Python scripts and curriculum materials for studying high
+school math and programming together.
